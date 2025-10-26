@@ -14,7 +14,7 @@
   text-align: center;
   opacity: 0;
   z-index: 1000;
-  animation: fadeInOut 10s ease forwards;
+  animation: fadeInOut 30s ease forwards;
 }
 
 @keyframes fadeInOut {
